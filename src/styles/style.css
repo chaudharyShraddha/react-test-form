@@ -1,0 +1,115 @@
+#main-section{
+  width: 100%;
+  height: auto;
+  margin-left: 60%;
+    margin: 10px 160px 20px;
+    border: 1px solid #b3d9ff;
+    box-shadow: 0px 20px 30px #b3d9ff;
+    padding: 16px 50px;
+  background-color: #cceeff;
+}
+/* formOne */
+input[type="text"], input[type="email"], #textarea{
+  background-color:#cceeff;
+  color: black;
+}
+.slider .backside{
+  background-color: #99ddff;
+}
+.slider .complete{
+  background-color:#99bbff;
+}
+.slider .marker{
+  background-color: #002266;
+
+}
+.slider .hint.top-side{
+  background-color: white;
+  color: black;
+}
+
+ /* formtwo */
+#text{
+  margin-left: 150px;
+}
+#budget{
+  border: 1px solid silver;
+  margin: 20px 0px;
+  padding: 20px 20px 40px;
+  width: auto;
+}
+#budget .head{
+  margin-bottom: 30px;
+}
+#upload{
+  border: 1px dashed silver;
+  margin: 0;
+  padding: 20px 20px 50px;
+  width: auto;
+}
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+.upload-btn-wrapper input[type=file] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+/* form three */
+.form1{
+  width: 400px;
+  height: auto;
+  margin: 0px 40px 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0px 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+}
+input[type="checkbox"]{
+  background-color: indigo;
+}
+/* form four */
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+.option{
+    background-color: transparent;
+  display: inline-block;
+  width: 70px;
+  height: 30px;
+  outline: none;
+  border-radius: 0;
+  font-size: 14px;
+}
+.options{
+  background-color: transparent;
+display: inline-block;
+width: 170px;
+height: 40px;
+outline: none;
+border-radius: 0;
+font-size: 14px;
+}
+.submit{
+  width: 160px;
+  margin-left: 30%;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
